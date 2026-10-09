@@ -1,4 +1,7 @@
-# VAELYNTH
+# Vaelynth
+
+<div align="center">
+<table><tr><td align="left">
 
 <pre>
                     ,lxNWWWXdc'       'coKWNkl,
@@ -15,10 +18,8 @@ dc  c         ,doddoolllll; ;WMMl   ,X; ;lllllodddod,         l' cx
                      ;;;:::;'O;'KMN,,O,;::;;;;'
                               ;',0:';
 </pre>
-
-<div align="center">
-
-**Born in the dark. Built to be found.**
+</td></tr></table>
+</div>
 
 *The closed-source side of VEKENDIAN*
 
