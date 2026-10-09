@@ -46,7 +46,7 @@ The source code stays private. This organization exists only for what's meant to
 
 | Project | Description | Access |
 |---------|-------------|--------|
-| *Coming soon* | Public API and docs will be listed here. | 🔒 Closed source |
+| *Coming soon* | Public API and docs will be listed soon. | Closed source |
 
 ## Open Source?
 
