@@ -19,7 +19,6 @@ dc  c         ,doddoolllll; ;WMMl   ,X; ;lllllodddod,         l' cx
                               ;',0:';
 </pre>
 </td></tr></table>
-</div>
 
 *The closed-source side of VEKENDIAN*
 
