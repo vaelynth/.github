@@ -57,7 +57,7 @@ Looking for source code you can read, fork, and contribute to? Head over to [**V
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pEQGhXQwqe)
-[![VEKENDIAN](https://img.shields.io/badge/VEKENDIAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vekendian)
+[![VEKENDIAN](https://img.shields.io/badge/VEKENDIAN-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vekendian)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaelynth@gmail.com)
 
 </div>
