@@ -23,7 +23,6 @@ dc  c         ,doddoolllll; ;WMMl   ,X; ;lllllodddod,         l' cx
 *The closed-source side of VEKENDIAN*
 
 ![Source](https://img.shields.io/badge/source-closed-8A2BE2?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-mobile-181717?style=for-the-badge&logo=android&logoColor=white)
 ![Parent](https://img.shields.io/badge/by-VEKENDIAN-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
